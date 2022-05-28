@@ -3,8 +3,8 @@ schema: default
 title: Sample dataset
 organization: Sample Department
 notes: >-
-  This is an example dataset that comes with a new installation of JKAN, not bad
-  is it
+  This is an example dataset that comes with a new installation of JKAN, good
+  eh?
 resources:
   - name: Air Monitoring Stations CSV
     url: >-
