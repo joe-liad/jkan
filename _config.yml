@@ -5,7 +5,7 @@ baseurl: /open-data-lewisham
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: Slate
 
 # Authentication
 github_client_id: 182ddfac77895d0a7799
