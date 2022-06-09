@@ -2,7 +2,9 @@
 schema: default
 title: Lookups
 organization: 'Insight, Transformation and Organisational Development'
-notes: 'ONS Lookups: postcode, oa, lsoa, msoa, ward code, ward name'
+notes: >-
+  ONS Lookups filtered to lewisham: postcode, oa, lsoa, msoa, ward code, ward
+  name
 resources:
   - name: ward code to ward name lookup
     url: >-
