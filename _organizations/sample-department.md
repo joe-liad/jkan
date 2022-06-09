@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Sample Department
-description: This is an example department provided with a new installation of JKAN
+title: 'Insight, Transformation and Organisational Development'
+description: 'The Insight, Performance and Business partner teams'
 logo: 'https://publiccode.eu/img/logo.svg'
 ---
