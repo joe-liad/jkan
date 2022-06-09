@@ -10,11 +10,11 @@ resources:
     format: geojson
   - name: ward boundaries (topojson - longitudes and latitudes)
     url: >-
-      https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/lbl_wd22.topojson
+      https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/data/boundaries/lbl_wd22.topojson
     format: topojson
   - name: ward boundaries (geopackage - eastings and northings)
     url: >-
-      https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/lbl_wd22_proposed.gpkg
+      https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/data/boundaries/lbl_wd22_proposed.gpkg
     format: geopackage
   - name: previous ward boundaries (geojson - longitudes and latitudes)
     url: >-
@@ -22,7 +22,7 @@ resources:
     format: geojson
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
-  - Real Estate / Land Records
+  - Property / Land Records
 maintainer: 'Lewisham insight '
 maintainer_email: insight-and-delivery@lewisham.gov.uk
 ---
