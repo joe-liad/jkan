@@ -44,13 +44,16 @@ resource_fields:
       - csv
       - json
       - geojson
-      - topojson
       - geopackage
       - html
       - kml
       - kmz
+      - ods
       - shp
+      - svg
+      - topojson
       - xml
+      - xmlsx
 
 organization_fields:
   - field_name: title
