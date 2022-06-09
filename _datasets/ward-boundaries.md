@@ -16,6 +16,10 @@ resources:
     url: >-
       https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/lbl_wd22_proposed.gpkg
     format: geopackage
+  - name: previous ward boundaries (geojson - longitudes and latitudes)
+    url: >-
+      https://gist.github.com/joe-liad/7fb39968587908b96f6b05f87b3250e0/raw/ff1ade351895b2d5ed39e3b3bfed26c9aa65fcfa/lewisham-wards.geojson
+    format: geojson
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Real Estate / Land Records
