@@ -44,6 +44,8 @@ resource_fields:
       - csv
       - json
       - geojson
+      - topojson
+      - geopackage
       - html
       - kml
       - kmz
