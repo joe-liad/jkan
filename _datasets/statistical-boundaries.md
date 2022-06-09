@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Ward boundaries
+title: Statistical boundaries
 organization: 'Insight, Transformation and Organisational Development'
-notes: Lewisham ward boundaries in various formats
+notes: Lewisham statistical boundaries and centroids
 resources:
   - name: lsoa11_centroids (geojson - longitudes and latitudes) 
     url: >- 
