@@ -4,6 +4,10 @@ title: Electric vehicle chargepoints
 organization: 'Insight, Transformation and Organisational Development'
 notes: Mapped locations (longitudes and latitudes)
 resources:
+  - name: Electric vehicle chargepoints Mar 2022 (preview)
+    url: >-
+      https://github.com/lb-lewisham/open-data-lewisham/blob/gh-pages/_datasets/data/lewisham_electric_vehicle_charging_locations.geojson
+    format: geojson
   - name: Electric vehicle chargepoints Mar 2022
     url: >-
       https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/data/lewisham_electric_vehicle_charging_locations.geojson
