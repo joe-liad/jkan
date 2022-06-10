@@ -10,7 +10,7 @@ resources:
     format: csv
   - name: Educational attainment
     url: >-
-      https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/data/census-2011/economic-activity/lbl_educational_attainment_wd22.csv
+      https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/data/census-2011/educational_attainment/lbl_educational_attainment_wd22.csv
     format: csv
   - name: Economic activity groups
     url: >-
