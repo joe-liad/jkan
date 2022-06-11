@@ -82,6 +82,6 @@ category:
   - Education
   - Environment
   - Transportation
-maintainer: Lewisham insight
+maintainer: Lewisham Insight
 maintainer_email: insight-and-delivery@lewisham.gov.uk
 ---

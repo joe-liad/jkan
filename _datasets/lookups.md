@@ -17,6 +17,6 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Property / Land Records
-maintainer: 'Lewisham insight'
+maintainer: 'Lewisham Insight'
 maintainer_email: insight-and-delivery@lewisham.gov.uk
 ---

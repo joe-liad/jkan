@@ -15,6 +15,6 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Economy
-maintainer: 'Lewisham insight'
+maintainer: 'Lewisham Insight'
 maintainer_email: insight-and-delivery@lewisham.gov.uk
 ---
