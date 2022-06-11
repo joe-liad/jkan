@@ -1,6 +1,6 @@
 ---
 schema: default
-title: fixmystreet history
+title: Fixmystreet history
 organization: Lewisham council
 notes: Up-to-date history of fixmystreet requests for lewisham going back to 2007
 resources:
