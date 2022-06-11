@@ -2,7 +2,7 @@
 schema: default
 title: fixmystreet history
 organization: Lewisham council
-notes: pp-to-date history of fixmystreet requests for lewisham going back to 2007
+notes: Up-to-date history of fixmystreet requests for lewisham going back to 2007
 resources:
   - name: fixmystreet history
     url: >-
