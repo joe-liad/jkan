@@ -3,9 +3,8 @@ schema: default
 title: Air sensor history
 organization: Lewisham council
 notes: >-
-  This repo uses a github action to periodically scrape the londonair api,
-  extracting sensor data collected within the lewisham jurisdiction, and adds
-  them to a sqlite database suitable for use in e.g. datasette
+  up-to-date history of records for londonair.org.uk sensors in lewisham going
+  back to 2005
 resources:
   - name: sensor data
     url: >-
