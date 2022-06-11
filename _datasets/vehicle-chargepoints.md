@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Electric vehicle chargepoints
-organization: 'Insight, Transformation and Organisational Development'
+organization: 'Lewisham council'
 notes: Mapped locations (longitudes and latitudes)
 resources:
   - name: Electric vehicle chargepoints Mar 2022 (preview)

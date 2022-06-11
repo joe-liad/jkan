@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Census 2011
-organization: 'Insight, Transformation and Organisational Development'
+organization: 'Lewisham council'
 notes: Historical census data by 2022 ward
 resources:
   - name: Country of birth

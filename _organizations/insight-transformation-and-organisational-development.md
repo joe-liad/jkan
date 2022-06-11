@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 'Insight, Transformation, and Organisational Development'
-description: 'Insight, Performance, and Business partners'
+title: 'Lewisham council'
+description: 'Lewisham council'
 logo: 'https://publiccode.eu/img/logo.svg'
 ---
