@@ -281,14 +281,14 @@ dataset {
 }
 
 .mysoc-footer__badge--github {
-  background: transparent url("../../theme/img/mysoc-footer/icon-github.png") 0 0 no-repeat;
+  background: transparent url("../theme/img/mysoc-footer/icon-github.png") 0 0 no-repeat;
   background-size: 32px 32px;
-  background-image: url("../../theme/img/mysoc-footer/icon-github.svg"), none
+  background-image: url("../theme/img/mysoc-footer/icon-github.svg"), none
 }
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
   .mysoc-footer__badge--github {
-      background-image: url("../../theme/img/mysoc-footer/icon-github@2x.png")
+      background-image: url("../theme/img/mysoc-footer/icon-github@2x.png")
   }
 }
 
@@ -376,4 +376,20 @@ dataset {
 
 .mysoc-footer p {
   margin-top: 0
+}
+
+.footer__login-links ul {
+  padding-left: 0;
+  list-style: none outside none;
+  font-size: .666666667em;
+  opacity: 0.6
+}
+
+.footer__login-links li {
+  display: inline-block;
+  margin-right: 1em
+}
+
+.footer__login-links li.admin-only {
+  display: none
 }
