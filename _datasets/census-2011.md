@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Census 2011
-organization: 'Lewisham council'
+organization: Lewisham council
 notes: Historical census data by 2022 ward
 resources:
   - name: Country of birth
@@ -51,6 +51,7 @@ resources:
   - name: Housing composition
     url: >-
       https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/data/census-2011/housing/lbl_household_compositions_wd22.csv
+    format: ''
   - name: Housing bedrooms available
     url: >-
       https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/_datasets/data/census-2011/housing/lbl_occupancy_rating_wd22.csv
@@ -77,7 +78,10 @@ resources:
     format: csv
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
-  - Uncategorized
-maintainer: 'Lewisham insight'
+  - Economy
+  - Education
+  - Environment
+  - Transportation
+maintainer: Lewisham insight
 maintainer_email: insight-and-delivery@lewisham.gov.uk
 ---
