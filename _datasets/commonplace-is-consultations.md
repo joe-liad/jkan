@@ -1,8 +1,8 @@
 ---
 schema: default
-title: commonplace.is consultations
+title: Commonplace.is consultations history
 organization: Lewisham council
-notes: ''
+notes: "this repo downloads a selection of consultations and adds them to a collection of tables in a sqlite database\r\n\r\nthe source datasets were found by searching the commonplace.is site for the word lewisham"
 resources:
   - name: commonplace.is consultations
     url: >-
