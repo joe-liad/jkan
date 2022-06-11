@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Census 2011
-organization: Lewisham council
+organization: Lewisham Insight
 notes: Historical census data by 2022 ward
 resources:
   - name: Country of birth

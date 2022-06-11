@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Commonplace.is consultations
-organization: Lewisham council
+organization: Lewisham Insight
 notes: Pooling together of various lewisham consultations into one sqlite database
 resources:
   - name: commonplace.is consultations

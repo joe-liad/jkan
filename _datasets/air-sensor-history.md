@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Air sensor history
-organization: Lewisham council
+organization: Lewisham Insight
 notes: >-
   up-to-date history of records for londonair.org.uk sensors in lewisham going
   back to 2005

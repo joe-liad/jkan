@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Ward boundaries
-organization: 'Lewisham council'
+organization: 'Lewisham Insight'
 notes: Lewisham ward boundaries in various formats
 resources:
   - name: ward boundaries (geojson - longitudes and latitudes)

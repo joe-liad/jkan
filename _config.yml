@@ -38,7 +38,7 @@ defaults:
     values:
       layout: dataset
       category: Uncategorized
-      organization: Lewisham council
+      organization: Lewisham Insight
   - scope:
       path: ""
       type: organizations

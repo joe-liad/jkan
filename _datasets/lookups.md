@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Lookups
-organization: 'Lewisham council'
+organization: 'Lewisham Insight'
 notes: >-
   ONS Lookups filtered to lewisham: postcode, oa, lsoa, msoa, ward code, ward
   name

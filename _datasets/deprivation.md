@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Deprivation
-organization: 'Lewisham council'
+organization: 'Lewisham Insight'
 notes: https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019 (by LSOA)
 resources:
   - name: IMD-2019

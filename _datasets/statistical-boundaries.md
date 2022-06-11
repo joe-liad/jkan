@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Statistical boundaries
-organization: 'Lewisham council'
+organization: 'Lewisham Insight'
 notes: Lewisham statistical boundaries and centroids
 resources:
   - name: lsoa11_centroids (geojson - longitudes and latitudes) 
