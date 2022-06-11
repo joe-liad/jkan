@@ -1,6 +1,6 @@
 ---
 schema: default
-title: air sensor history
+title: Air sensor history
 organization: Lewisham council
 notes: >-
   this repo uses a github action to periodically scrape the londonair api,
@@ -14,6 +14,8 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - APIs
+  - Geodata
+  - Environment
 maintainer: 'Lewisham Insight '
 maintainer_email: insight-and-delivery@lewisham.gov.uk
 ---
