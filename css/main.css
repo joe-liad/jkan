@@ -99,6 +99,15 @@ dataset {
   border-width: 5px;
 }
 
+/* mysociety styles https://github.com/mysociety/mysociety-docs-theme */
+
+.container,.ms-header__row,.page {
+  max-width: 63.333333333em;
+  padding: 0 1em;
+  margin: 0 auto;
+  position: relative
+}
+
 .mysoc-footer {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
