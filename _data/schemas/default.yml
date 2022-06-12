@@ -53,7 +53,7 @@ resource_fields:
       - svg
       - topojson
       - xml
-      - xmlsx
+      - xlsx
 
 organization_fields:
   - field_name: title
