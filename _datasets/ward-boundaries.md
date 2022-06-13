@@ -10,11 +10,11 @@ resources:
     format: geojson
   - name: ward boundaries (longitudes and latitudes - preview)
     url: >-
-      https://github.com/lb-lewisham/open-data-lewisham/blob/gh-pages/datasets/data/boundaries/wards/lbl_wd22.topojson
+      https://github.com/lb-lewisham/open-data-lewisham/blob/gh-pages/_datasets/data/boundaries/wards/lbl_wd22.topojson
     format: topojson
   - name: ward boundaries (longitudes and latitudes)
     url: >-
-      https://github.com/lb-lewisham/open-data-lewisham/raw/gh-pages/datasets/data/boundaries/wards/lbl_wd22.topojson
+      https://lb-lewisham.github.io/open-data-lewisham/datasets/data/boundaries/wards/lbl_wd22.topojson
     format: topojson
   - name: ward boundaries (eastings and northings)
     url: >-
