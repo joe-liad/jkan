@@ -3,11 +3,10 @@
         <div class="row">
 
             <div class="col-sm-7">
-                <h2 class="mysoc-footer__site-name"><a href="https://github.com/lb-lewisham/">Lewisham Insight</a></h2>
+                <h2 class="mysoc-footer__site-name"><a href="https://github.com/lb-lewisham/">{{ site.title }}</a></h2>
                 <div class="mysoc-footer__site-description">
                     <p>
-                        Lewisham Insight is a data with design team, based in Insight, Transformation and Organisational Development. We work on data products and services
-                        to support residents and local business.
+                        {{ site.greeting }}
                     </p>
                 </div>
                 <nav data-component="navigation" class="footer__login-links">
@@ -21,10 +20,10 @@
             </div>
 
             <div class="col-sm-5">
-                <h2 class="mysoc-footer__site-name">Free and open</h2>
+                <h2 class="mysoc-footer__site-name">About</h2>
                 <div class="mysoc-footer__site-description">
                     <p>
-                        {{ site.greeting }}
+                        {{ site.description }}
                     </p>
                 </div>
             </div>
