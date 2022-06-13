@@ -1,6 +1,6 @@
 title: Open Data Lewisham
 greeting: This site collects public data and sources for Lewisham.
-description: This site is powered by <a href="https://jkan.io" >jkan</a> A lightweight, backend-free open data portal!!
+description: This site is a fork of <a href="https://jkan.io" >jkan</a>, a lightweight, backend-free open data portal!!
 baseurl: /open-data-lewisham
 logo: /img/jkan.png
 
