@@ -1,6 +1,6 @@
 title: Open Data Lewisham
 greeting: Searchable public repository of data and sources for Lewisham.
-description: "This site is a fork of https://jkan.io : a free, lightweight, serverless, open data portal!!"
+description: "This site is a fork of https://jkan.io - a free, lightweight, serverless, open data portal!!"
 baseurl: /open-data-lewisham
 logo: /img/jkan.png
 
