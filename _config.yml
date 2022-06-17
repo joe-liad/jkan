@@ -72,6 +72,10 @@ twittercard:
 
 # Open Graph
 opengraph:
+  enabled: false
+
+# iframe-resizer
+iframeresizer:
   enabled: true
 
 # Exclude these files from the build

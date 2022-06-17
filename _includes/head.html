@@ -44,6 +44,11 @@
     {% include addons/twittercard.html %}
   {% endif %}
 
+  {% if site.iframeresizer.enabled == true %}
+    <!-- iframeresizer -->
+    {% include addons/iframeresizer.html %}
+  {% endif %}
+
   <script>
   var settings = {
     BASE_URL: {{ site.baseurl | jsonify }},
